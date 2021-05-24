@@ -1,0 +1,9 @@
+Package: com.galacticdev.ytnoshortsbutton
+Name: YTNoShortsButton
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove the shorts button from the YouTube app.
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
